@@ -19,6 +19,8 @@ public class Array_call {
 		}
 
 		System.out.println(even);
+		
+		System.out.println("local update********");
 	}
 
 }
